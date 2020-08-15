@@ -12,3 +12,5 @@ Simple game project using python to guess the randomly chosen word.
 7.String
 8.Length
 9.Print
+
+Happy Learning!
